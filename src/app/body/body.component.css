@@ -1,0 +1,50 @@
+/* .body-container
+{
+    background-color:lightgray;
+}
+
+.home-salon-box
+{
+    margin-right:1%;
+    margin-left:1%;
+    background-color: white;
+    height:200px;
+    width:96%;
+    text-align: center;
+}
+img
+{
+   width:50%;
+   margin-left:1%;
+}
+
+ */
+
+  
+ .scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    width:95%;
+    margin: 0 auto;
+ }
+  
+    .car {
+      display: inline-block;
+      width:25%;
+      margin-left:.5%;
+      margin-bottom: 0px;
+    }
+    img
+    {
+        width: 100%;
+        
+    }
+    figure
+    {
+        background-color: lightpink;
+        margin-bottom: 0px
+    } 
+  
+
+  

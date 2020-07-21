@@ -1,0 +1,90 @@
+mat-toolbar
+{
+    color:white;
+    font-size:medium;
+
+   background-color: black;
+    height:80px;
+}
+
+.image{
+    width:80px;
+    height: 60px;
+}
+/* a{
+    text-decoration: none;
+    color:white;
+} */
+/* a:hover
+{
+    color: white;
+    text-decoration: none;
+} */
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .links{
+      margin-left:1.5%;
+  }
+
+  .img-cap,.links
+  {
+    font-size:small;
+  }
+ 
+.last-link
+{
+margin-right: 0.5%;    
+}
+.first-link
+{
+    margin-left:0.5%;
+}
+.navibar
+{
+  margin-top:0px;
+}
+.search-btn
+{
+    background-color: red;
+}
+.searchBox
+{
+    width:50%;
+    height:35px;
+}
+.inputField
+{
+    margin-top:40px;
+    text-align: center;
+}
+
+.label {
+    height: 72px;
+  }
+  .icons,.img-fluid,p
+  { 
+      display: inline;
+  }
+
+.icons
+{
+    width:30%;
+}
+
+
+.icon-last
+{
+  margin-right:1em;
+}
+
+.multipleIcons
+{
+    margin-top:50px;
+}
+
+.img-cap
+{
+    width:fit-content;
+}
