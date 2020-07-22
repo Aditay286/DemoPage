@@ -47,7 +47,7 @@ img
     } 
     .container-card
     {
-        background-color: white;
+        background-color:white;
         margin-left: 1%;
         margin-right: 1%;
         margin-top:1%;
@@ -93,5 +93,17 @@ img
         margin-left: 1%;
         margin-right:1%;
         display: inline-block;
-        
+    }
+    /* .card6
+    {
+       width:80%;
+   
+    } */
+
+    .card6 img
+    {
+        width: 60%;
+        height: auto;
+        max-height:400px;
+        margin:5%; 
     }
