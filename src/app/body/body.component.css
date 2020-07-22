@@ -111,3 +111,14 @@ img
         max-height:500px;
         margin:2%; 
     }
+
+    .card12 p{
+        text-transform: uppercase;
+        background-color: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        bottom:2%;
+        font-size: 1.5vw;
+        width: 100%;
+        color: white;
+    }
+
