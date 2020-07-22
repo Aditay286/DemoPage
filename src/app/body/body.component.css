@@ -110,6 +110,8 @@ img
         height:auto;
         max-height:500px;
         margin:2%; 
+        border:2px solid lightgray;
+        
     }
 
     .card12 p{
@@ -120,5 +122,15 @@ img
         font-size: 1.5vw;
         width: 100%;
         color: white;
+    }
+
+    .cardlast
+    {
+        
+        margin:2%;
+    }
+    .container-card h2
+    {
+        font-size: 2vw;
     }
 
