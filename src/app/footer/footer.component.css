@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.footer-container
+{
+    width:100%;
+    height:auto;
+    text-align:center;
+}
+.head
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    font-size: 3vw;
+    word-wrap: normal;
+    text-justify: left;
+}
+.footer-container .phone_pic
+{
+    position: relative;
+    height:auto;
+    width:40%;
+    float: right;
+}
+.phonenumberBox
+{
+    float:left;
+}
+
+.inputField img{
+    float:left;
+}
+
+.searchBox
+{
+    width:30%;
+    height:2vw;
+}
+
+.inputField
+{
+    margin-top:40px;
+    /* text-align:left; */
+}
+.search-btn
+{
+    background-color: red;
+    width:2vw;
+}
+
+.Box1
+{
+    width: 40%; 
+}
+
+.Box1 div
+{
+    text-align: center;
+}
+
+.Box2
+{
+    width:60%;
+}
+.Box1,.Box2
+{
+  float:left;
+  margin-top:3%;
+}
+.Box div
+{
+    margin-top:3%;
+}
+.Box
+{
+    width:94%;
+    margin-left:3%;
+    margin-right:3%;
+}
+
+.footer-container .google_play
+{
+    width:30%;
+    float:none;
+}
+.googlePlay_title
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    font-size: 2vw;
+    word-wrap: normal;
+    text-justify: left;
+}
+
+.flags
+{
+    width:10%;
+    float:left;
+    /* height:1%; */
+}
+
+@media only screen and (max-width:600px)
+{
+    button
+    {
+        width:10%;
+    }
+} 
